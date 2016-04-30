@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depovidiinasoni00petegoog_0010.png"; bbox 0 0 902 1333; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 471 505 495 519">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 471 505 495 519">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 505 495 519; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 471 505 495 519; x_wconf 77' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 188 585 775 606">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 188 585 775 606">
+     <span class='ocr_line' id='line_1_2' title="bbox 188 585 775 606; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 188 585 292 606; x_wconf 81' lang='lat' dir='ltr'>P.0V1D11</span> <span class='ocrx_word' id='word_1_3' title='bbox 306 585 407 606; x_wconf 80' lang='lat' dir='ltr'>NASONIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 421 585 546 606; x_wconf 75' lang='lat' dir='ltr'>FASTORVM</span> <span class='ocrx_word' id='word_1_5' title='bbox 560 585 625 606; x_wconf 80' lang='lat' dir='ltr'>LOCIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 637 585 775 606; x_wconf 73' lang='lat' dir='ltr'><strong>QVIBVSDAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 368 659 645 692">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 368 659 645 692">
+     <span class='ocr_line' id='line_1_3' title="bbox 368 659 645 692; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 368 675 482 692; x_wconf 80' lang='lat' dir='ltr'>&#39;EPISTVLA</span> <span class='ocrx_word' id='word_1_8' title='bbox 495 675 583 692; x_wconf 77' lang='lat' dir='ltr'>CRfflcA</span> <span class='ocrx_word' id='word_1_9' title='bbox 623 679 626 682; x_wconf 82' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_10' title='bbox 643 659 645 661; x_wconf 36' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
